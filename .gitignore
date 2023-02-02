@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#privat edata
+*private_data.*
